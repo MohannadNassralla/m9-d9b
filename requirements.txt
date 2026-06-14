@@ -1,0 +1,4 @@
+neo4j>=5.17,<6
+pytest>=8,<9
+python-dotenv>=1.0,<2
+rdflib>=7,<8
